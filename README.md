@@ -1,4 +1,4 @@
-### deathowl@github.com:
+### ohai:
 [www](https://deathowl.com)
 
 ![https://github-readme-stats.vercel.app/api?username=deathowl](https://github-readme-stats.vercel.app/api?username=deathowl&theme=merko)
